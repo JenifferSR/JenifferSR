@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**JenifferSR/JenifferSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##  Olá eu sou a Jeniffer Souza !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<a href="https://github.com/JenifferSR">
+
+</div>
+
+  🌱Estou atualmente participando do Bootcamp da Generation onde estou aprendendo não somente as linguagens de Java, Spring Boot, HTML, CSS, JavaScript e Angular, mas também ampliando habilidades e mentalidades profissionais.
+  
+⚡Em breve mais novidades estão por vir.
+  
+  
+  
+  
